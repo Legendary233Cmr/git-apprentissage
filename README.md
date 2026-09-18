@@ -20,3 +20,9 @@ Je suis en train d'apprendre Git et GitHub.
 
 Je crée une branche pour chaque nouvelle fonctionnalité.
 Je fais des commits réguliers et descriptifs.
+
+## Mes objectifs
+
+- Maîtriser Git et GitHub
+- Apprendre les branches
+- Utiliser un workflow professionnel
