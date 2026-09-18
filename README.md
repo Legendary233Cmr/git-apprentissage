@@ -15,3 +15,8 @@ Je suis en train d'apprendre Git et GitHub.
 - Maîtriser Git et GitHub
 - Apprendre les branches
 - Utiliser un workflow professionnel
+
+## Mon workflow Git
+
+Je crée une branche pour chaque nouvelle fonctionnalité.
+Je fais des commits réguliers et descriptifs.
