@@ -1,2 +1,11 @@
 # Mon apprentissage de Git et GitHub
-Je suis entrain d'apprendre Git et GitHub 
+
+Je suis en train d'apprendre Git et GitHub.
+
+## Ce que j'apprends
+
+- Git
+- GitHub
+- Les commits
+- Les branches
+- Le travail avec les repositories
